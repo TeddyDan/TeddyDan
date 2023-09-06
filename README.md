@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @TeddyDan
+![NftGIF](https://github.com/TeddyDan/TeddyDan/assets/136113076/2c2e1c89-7295-4275-8cfd-d5f26d0908a6)- 👋 Hi, I’m @TeddyDan
 - 👀 I’m interested in Java,Python and C++
-- 🌱 I’m currently learning software Engineering
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning software Engineering and code world👨‍💻
+- 💞️ I’m looking to collaborate on any project🕸️
+  ![Uploading DownsignQrCodeGIF.gif…]()
+
+![1000GIF](https://github.com/TeddyDan/TeddyDan/assets/136113076/841dd26d-c97c-4202-bae0-9275fe386f27)
+
   
 
 <!---
