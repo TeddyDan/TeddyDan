@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeddyDan
-- 👀 I’m interested in Java,Python and C++
+- 👀 I’m interested in JavaScript,CSS,HTML,React,Angular,Vue and js
 - 🌱 I’m currently learning software Engineering and code world👨‍💻
 - 💞️ I’m looking to collaborate on any project🕸️
 
